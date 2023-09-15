@@ -1,2 +1,5 @@
-# goph419-f2023-lab01-stMA
-Lab 1 for goph 419
+# GOPH 419 - Computational Methods for Geophysicists
+
+*Semester:* F2023
+*Instructor:* B. Karchewski
+*Author:* Meg Acevedo
